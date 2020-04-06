@@ -1,4 +1,4 @@
-// Run experiment at the page where lodash (_) is defined: 
+// Run experiment at the page where lodash (_) is defined:
 // https://lodash.com/docs/4.17.4
 runLoopSpeedExperiment();
 
@@ -28,6 +28,8 @@ function speedExperiment(times) {
 function perform() {
   1+1;
 }
+
+//  ну тут я написал что то новое)
 
 function runLoopSpeedExperiment() {
   speedExperiment(12);
